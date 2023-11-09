@@ -17,4 +17,10 @@ This repository serves as a template for web3 developers to kickstart their dece
 
    ```bash
    git clone https://github.com/Nasfame/hardhat-template
+   cd hardhat-template
+   pnpm install
+   cp .env.example .env
+   #fill in the .env variables
+   npm run build
+   npm run test:local:dev
    ```
