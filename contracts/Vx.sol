@@ -11,7 +11,7 @@ contract Web3SubVx is Web3Sub {
 
     constructor() {
         string memory initMsg = string.concat(
-            "init:",
+            "inict:",
             version,
             Strings.toString(block.timestamp)
         );

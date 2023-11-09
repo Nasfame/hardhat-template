@@ -2,7 +2,7 @@
   "name": "hardhat-template",
   "private": true,
   "version": "0.6.0",
-  "description": "Web3Sub:new standard for subscriptions for DApps. Scalable solution for on chain subscriptions",
+  "description": "Hardhat-Template is a ready-to-use repository for web3 developers, providing a seamless environment for decentralized application (Dapp) development using Hardhat. It includes smart contract development, testing, deployment scripts, and an example frontend for easy interaction with deployed smart contracts.",
   "author": "laciferin@gmail.com",
   "license": "MIT",
   "scripts": {
