@@ -1,5 +1,5 @@
 {
-  "name": "web3.sub",
+  "name": "hardhat-template",
   "private": true,
   "version": "0.6.0",
   "description": "Web3Sub:new standard for subscriptions for DApps. Scalable solution for on chain subscriptions",
@@ -58,9 +58,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Web3Mustketeers/web3.sub.git"
+    "url": "https://github.com/Nasfame/hardhat-template.git"
   },
   "bugs": {
-    "url": "https://github.com/Web3Mustketeers/web3.sub/issues"
+    "url": "https://github.com/Nasfame/hardhat-template/issues"
   }
 }

@@ -1,16 +1,20 @@
-# Web3Sub
+# Hardhat Template
 
-We are trying to establish a on-chain subscription service for Dapps
+## Overview
 
-## Aim
+This repository serves as a template for web3 developers to kickstart their decentralized application (Dapp) development using Hardhat. Hardhat is a popular Ethereum development environment that makes it easy to compile, deploy, and test your smart contracts.
 
-Simplify and establish reliable subscription services for Dapps
+## Features
 
-- Payments are undertaken by the Dapp contracts
-- We just allow wallets to be subscribed, unsub, and verified for Dapp contracts on chain
+- **Ready-to-Use**: Clone this repository, and you're ready to start building your Dapp.
+- **Smart Contract Development**: Write, compile, and deploy smart contracts effortlessly.
+- **Testing**: Includes a testing environment with sample tests to ensure your contracts function as expected.
+- **Deployment Scripts**: Simple scripts for deploying your smart contracts to various Ethereum networks.
 
+## Getting Started
 
-## Contract Onboarding
+1. Clone this repository:
 
-1. We have versioned contracts in /contracts
-2. We have utils folder for free functions (internal) 
+   ```bash
+   git clone https://github.com/Nasfame/hardhat-template
+   ```
