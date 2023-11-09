@@ -24,3 +24,6 @@ This repository serves as a template for web3 developers to kickstart their dece
    npm run build
    npm run test:local:dev
    ```
+## Advanced Setup
+
+1. Install [Release Drafter](https://github.com/apps/release-drafter/installations/select_target)
